@@ -1,0 +1,9 @@
+10000=0
+10010=1
+
+hunan=0
+hubei=1
+beijing=0
+shanghai=1
+chognqing=1
+sichuan=1
